@@ -1,0 +1,387 @@
+[
+  {
+    "id": "fipi26-expert-4-1-1",
+    "title": "Задание 4.1 · ответ 1",
+    "type": "review",
+    "prompt": "Оцените: Задание 4.1 · ответ 1, стр. 82. Прочитайте условие и ученический ответ в PDF. Сначала выставьте баллы самостоятельно; затем откройте сравнение.",
+    "sourceUrl": "https://doc.fipi.ru/ege/dlya-predmetnyh-komissiy-subektov-rf/2026/literatura_mr_ege_2026.pdf",
+    "sourcePage": 82,
+    "materialPage": 81,
+    "sourceLabel": "ФИПИ · материалы экспертов",
+    "edition": "2026",
+    "keyStatus": "Опубликованная экспертная оценка ФИПИ",
+    "rubric": [
+      {
+        "name": "К1 · Ответ по заданию",
+        "max": 3
+      },
+      {
+        "name": "К2 · Логика и язык",
+        "max": 1
+      }
+    ],
+    "expected": [
+      1,
+      0
+    ],
+    "explanation": "Сравните обоснование в первоисточнике, стр. 82.",
+    "criteria": "Полные критерии: стр. 102.",
+    "minutes": 10,
+    "assessmentKind": "short",
+    "publishedTotal": 1,
+    "answerNumber": 1,
+    "taskNumber": "4.1"
+  },
+  {
+    "id": "fipi26-expert-4-1-2",
+    "title": "Задание 4.1 · ответ 2",
+    "type": "review",
+    "prompt": "Оцените: Задание 4.1 · ответ 2, стр. 82. Прочитайте условие и ученический ответ в PDF. Сначала выставьте баллы самостоятельно; затем откройте сравнение.",
+    "sourceUrl": "https://doc.fipi.ru/ege/dlya-predmetnyh-komissiy-subektov-rf/2026/literatura_mr_ege_2026.pdf",
+    "sourcePage": 82,
+    "materialPage": 81,
+    "sourceLabel": "ФИПИ · материалы экспертов",
+    "edition": "2026",
+    "keyStatus": "Опубликованная экспертная оценка ФИПИ",
+    "rubric": [
+      {
+        "name": "К1 · Ответ по заданию",
+        "max": 3
+      },
+      {
+        "name": "К2 · Логика и язык",
+        "max": 1
+      }
+    ],
+    "expected": [
+      2,
+      0
+    ],
+    "explanation": "Сравните обоснование в первоисточнике, стр. 82.",
+    "criteria": "Полные критерии: стр. 102.",
+    "minutes": 10,
+    "assessmentKind": "short",
+    "publishedTotal": 2,
+    "answerNumber": 2,
+    "taskNumber": "4.1"
+  },
+  {
+    "id": "fipi26-expert-4-2-1",
+    "title": "Задание 4.2 · ответ 1",
+    "type": "review",
+    "prompt": "Оцените: Задание 4.2 · ответ 1, стр. 83. Прочитайте условие и ученический ответ в PDF. Сначала выставьте баллы самостоятельно; затем откройте сравнение.",
+    "sourceUrl": "https://doc.fipi.ru/ege/dlya-predmetnyh-komissiy-subektov-rf/2026/literatura_mr_ege_2026.pdf",
+    "sourcePage": 83,
+    "materialPage": 81,
+    "sourceLabel": "ФИПИ · материалы экспертов",
+    "edition": "2026",
+    "keyStatus": "Опубликованная экспертная оценка ФИПИ",
+    "rubric": [
+      {
+        "name": "К1 · Ответ по заданию",
+        "max": 3
+      },
+      {
+        "name": "К2 · Логика и язык",
+        "max": 1
+      }
+    ],
+    "expected": [
+      3,
+      0
+    ],
+    "explanation": "Сравните обоснование в первоисточнике, стр. 83.",
+    "criteria": "Полные критерии: стр. 102.",
+    "minutes": 10,
+    "assessmentKind": "short",
+    "publishedTotal": 3,
+    "answerNumber": 1,
+    "taskNumber": "4.2"
+  },
+  {
+    "id": "fipi26-expert-4-2-2",
+    "title": "Задание 4.2 · ответ 2",
+    "type": "review",
+    "prompt": "Оцените: Задание 4.2 · ответ 2, стр. 83. Прочитайте условие и ученический ответ в PDF. Сначала выставьте баллы самостоятельно; затем откройте сравнение.",
+    "sourceUrl": "https://doc.fipi.ru/ege/dlya-predmetnyh-komissiy-subektov-rf/2026/literatura_mr_ege_2026.pdf",
+    "sourcePage": 83,
+    "materialPage": 81,
+    "sourceLabel": "ФИПИ · материалы экспертов",
+    "edition": "2026",
+    "keyStatus": "Опубликованная экспертная оценка ФИПИ",
+    "rubric": [
+      {
+        "name": "К1 · Ответ по заданию",
+        "max": 3
+      },
+      {
+        "name": "К2 · Логика и язык",
+        "max": 1
+      }
+    ],
+    "expected": [
+      1,
+      0
+    ],
+    "explanation": "Сравните обоснование в первоисточнике, стр. 83.",
+    "criteria": "Полные критерии: стр. 102.",
+    "minutes": 10,
+    "assessmentKind": "short",
+    "publishedTotal": 1,
+    "answerNumber": 2,
+    "taskNumber": "4.2"
+  },
+  {
+    "id": "fipi26-expert-5-1",
+    "title": "Задание 5 · ответ 1",
+    "type": "review",
+    "prompt": "Оцените: Задание 5 · ответ 1, стр. 83. Прочитайте условие и ученический ответ в PDF. Сначала выставьте баллы самостоятельно; затем откройте сравнение.",
+    "sourceUrl": "https://doc.fipi.ru/ege/dlya-predmetnyh-komissiy-subektov-rf/2026/literatura_mr_ege_2026.pdf",
+    "sourcePage": 83,
+    "materialPage": 81,
+    "sourceLabel": "ФИПИ · материалы экспертов",
+    "edition": "2026",
+    "keyStatus": "Опубликованная экспертная оценка ФИПИ",
+    "rubric": [
+      {
+        "name": "К1 · Сопоставление",
+        "max": 2
+      },
+      {
+        "name": "К2 · Работа с текстами",
+        "max": 4
+      },
+      {
+        "name": "К3 · Логика и язык",
+        "max": 1
+      }
+    ],
+    "expected": [
+      1,
+      1,
+      0
+    ],
+    "explanation": "Сравните обоснование в первоисточнике, стр. 84.",
+    "criteria": "Полные критерии: стр. 103–104.",
+    "minutes": 10,
+    "assessmentKind": "comparison",
+    "publishedTotal": 2,
+    "answerNumber": 1,
+    "taskNumber": "5"
+  },
+  {
+    "id": "fipi26-expert-5-2",
+    "title": "Задание 5 · ответ 2",
+    "type": "review",
+    "prompt": "Оцените: Задание 5 · ответ 2, стр. 84. Прочитайте условие и ученический ответ в PDF. Сначала выставьте баллы самостоятельно; затем откройте сравнение.",
+    "sourceUrl": "https://doc.fipi.ru/ege/dlya-predmetnyh-komissiy-subektov-rf/2026/literatura_mr_ege_2026.pdf",
+    "sourcePage": 84,
+    "materialPage": 81,
+    "sourceLabel": "ФИПИ · материалы экспертов",
+    "edition": "2026",
+    "keyStatus": "Опубликованная экспертная оценка ФИПИ",
+    "rubric": [
+      {
+        "name": "К1 · Сопоставление",
+        "max": 2
+      },
+      {
+        "name": "К2 · Работа с текстами",
+        "max": 4
+      },
+      {
+        "name": "К3 · Логика и язык",
+        "max": 1
+      }
+    ],
+    "expected": [
+      2,
+      4,
+      1
+    ],
+    "explanation": "Сравните обоснование в первоисточнике, стр. 84.",
+    "criteria": "Полные критерии: стр. 103–104.",
+    "minutes": 10,
+    "assessmentKind": "comparison",
+    "publishedTotal": 7,
+    "answerNumber": 2,
+    "taskNumber": "5"
+  },
+  {
+    "id": "fipi26-expert-9-1-2",
+    "title": "Задание 9.1 · ответ 2",
+    "type": "review",
+    "prompt": "Оцените: Задание 9.1 · ответ 2, стр. 85. Прочитайте условие и ученический ответ в PDF. Сначала выставьте баллы самостоятельно; затем откройте сравнение.",
+    "sourceUrl": "https://doc.fipi.ru/ege/dlya-predmetnyh-komissiy-subektov-rf/2026/literatura_mr_ege_2026.pdf",
+    "sourcePage": 85,
+    "materialPage": 84,
+    "sourceLabel": "ФИПИ · материалы экспертов",
+    "edition": "2026",
+    "keyStatus": "Опубликованная экспертная оценка ФИПИ",
+    "rubric": [
+      {
+        "name": "К1 · Ответ по заданию",
+        "max": 3
+      },
+      {
+        "name": "К2 · Логика и язык",
+        "max": 1
+      }
+    ],
+    "expected": [
+      3,
+      0
+    ],
+    "explanation": "Сравните обоснование в первоисточнике, стр. 85.",
+    "criteria": "Полные критерии: стр. 102.",
+    "minutes": 10,
+    "assessmentKind": "short",
+    "publishedTotal": 3,
+    "answerNumber": 2,
+    "taskNumber": "9.1"
+  },
+  {
+    "id": "fipi26-expert-10-1",
+    "title": "Задание 10 · ответ 1",
+    "type": "review",
+    "prompt": "Оцените: Задание 10 · ответ 1, стр. 86. Прочитайте условие и ученический ответ в PDF. Сначала выставьте баллы самостоятельно; затем откройте сравнение.",
+    "sourceUrl": "https://doc.fipi.ru/ege/dlya-predmetnyh-komissiy-subektov-rf/2026/literatura_mr_ege_2026.pdf",
+    "sourcePage": 86,
+    "materialPage": 84,
+    "sourceLabel": "ФИПИ · материалы экспертов",
+    "edition": "2026",
+    "keyStatus": "Опубликованная экспертная оценка ФИПИ",
+    "rubric": [
+      {
+        "name": "К1 · Сопоставление",
+        "max": 2
+      },
+      {
+        "name": "К2 · Работа с текстами",
+        "max": 4
+      },
+      {
+        "name": "К3 · Логика и язык",
+        "max": 1
+      }
+    ],
+    "expected": [
+      1,
+      1,
+      0
+    ],
+    "explanation": "Сравните обоснование в первоисточнике, стр. 86.",
+    "criteria": "Полные критерии: стр. 103–104.",
+    "minutes": 10,
+    "assessmentKind": "comparison",
+    "publishedTotal": 2,
+    "answerNumber": 1,
+    "taskNumber": "10"
+  },
+  {
+    "id": "fipi26-expert-10-2",
+    "title": "Задание 10 · ответ 2",
+    "type": "review",
+    "prompt": "Оцените: Задание 10 · ответ 2, стр. 86. Прочитайте условие и ученический ответ в PDF. Сначала выставьте баллы самостоятельно; затем откройте сравнение.",
+    "sourceUrl": "https://doc.fipi.ru/ege/dlya-predmetnyh-komissiy-subektov-rf/2026/literatura_mr_ege_2026.pdf",
+    "sourcePage": 86,
+    "materialPage": 84,
+    "sourceLabel": "ФИПИ · материалы экспертов",
+    "edition": "2026",
+    "keyStatus": "Опубликованная экспертная оценка ФИПИ",
+    "rubric": [
+      {
+        "name": "К1 · Сопоставление",
+        "max": 2
+      },
+      {
+        "name": "К2 · Работа с текстами",
+        "max": 4
+      },
+      {
+        "name": "К3 · Логика и язык",
+        "max": 1
+      }
+    ],
+    "expected": [
+      0,
+      0,
+      0
+    ],
+    "explanation": "Сравните обоснование в первоисточнике, стр. 86.",
+    "criteria": "Полные критерии: стр. 103–104.",
+    "minutes": 10,
+    "assessmentKind": "comparison",
+    "publishedTotal": 0,
+    "answerNumber": 2,
+    "taskNumber": "10"
+  },
+  {
+    "id": "fipi26-expert-11-1-1",
+    "title": "Сочинение № 1",
+    "type": "review",
+    "prompt": "Оцените: Сочинение № 1, стр. 87. Прочитайте условие и ученический ответ в PDF. Сначала выставьте баллы самостоятельно; затем откройте сравнение.",
+    "sourceUrl": "https://doc.fipi.ru/ege/dlya-predmetnyh-komissiy-subektov-rf/2026/literatura_mr_ege_2026.pdf",
+    "sourcePage": 87,
+    "materialPage": 87,
+    "sourceLabel": "ФИПИ · материалы экспертов",
+    "edition": "2026",
+    "keyStatus": "Опубликованная экспертная оценка ФИПИ",
+    "rubric": [
+      {
+        "name": "К1 · Тема",
+        "max": 3
+      },
+      {
+        "name": "К2 · Текст",
+        "max": 3
+      },
+      {
+        "name": "К3 · Факты",
+        "max": 2
+      },
+      {
+        "name": "К4 · Термины",
+        "max": 3
+      },
+      {
+        "name": "К5 · Композиция",
+        "max": 3
+      },
+      {
+        "name": "К6 · Речь",
+        "max": 3
+      },
+      {
+        "name": "К7 · Орфография",
+        "max": 1
+      },
+      {
+        "name": "К8 · Пунктуация",
+        "max": 1
+      },
+      {
+        "name": "К9 · Грамматика",
+        "max": 1
+      }
+    ],
+    "expected": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      0,
+      1,
+      1,
+      1
+    ],
+    "explanation": "Сравните обоснование в первоисточнике, стр. 87.",
+    "criteria": "Полные критерии: стр. 104–106.",
+    "minutes": 20,
+    "assessmentKind": "essay",
+    "publishedTotal": 13,
+    "answerNumber": 1,
+    "taskNumber": "11.1"
+  }
+]

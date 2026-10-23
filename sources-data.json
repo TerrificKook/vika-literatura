@@ -1,0 +1,100 @@
+{
+  "checkedAt": "2026-10-23",
+  "profile": {
+    "year": 2026,
+    "totalTasks": 11,
+    "shortTasks": 6,
+    "smallWrittenTasks": 4,
+    "essays": 1,
+    "maxScore": 48,
+    "minutes": 235,
+    "scope": "ЕГЭ по литературе, не полный регламент МЦКО"
+  },
+  "criteriaSource": "https://doc.fipi.ru/ege/dlya-predmetnyh-komissiy-subektov-rf/2026/literatura_mr_ege_2026.pdf",
+  "criteria": {
+    "short-written-2026": {
+      "tasks": [
+        4,
+        9
+      ],
+      "maxima": [
+        3,
+        1
+      ],
+      "page": 102,
+      "gate": "К1≤1 → К2=0"
+    },
+    "comparison-2026": {
+      "tasks": [
+        5,
+        10
+      ],
+      "maxima": [
+        2,
+        4,
+        1
+      ],
+      "page": 103,
+      "gate": "К1=0 → всё 0; К2≤1 → К3=0"
+    },
+    "essay-2026": {
+      "tasks": [
+        11
+      ],
+      "maxima": [
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        1,
+        1,
+        1
+      ],
+      "page": 104,
+      "gate": "К1=0 или менее 200 слов → всё 0; К2<2 → К3=К4=0; сумма К1–К6≤6 → К7–К9=0"
+    }
+  },
+  "verifiedDocuments": [
+    {
+      "url": "https://doc.fipi.ru/navigator-podgotovki/navigator-ege/MR_literatura_ege_2026.pdf",
+      "pages": 59
+    },
+    {
+      "url": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2026/li_11_2026.zip",
+      "files": 3,
+      "demoPhysicalPages": 11,
+      "demoPrintedPages": 21,
+      "keys": {
+        "1": [
+          "Раневская"
+        ],
+        "2": [
+          "321",
+          "314"
+        ],
+        "3": [
+          "реализмакомедии"
+        ],
+        "6": [
+          "лирикеассонанс"
+        ],
+        "7": [
+          "перекрёстная"
+        ],
+        "8": [
+          "1356"
+        ]
+      },
+      "keyPhysicalPage": 7,
+      "note": "Задание 2 имеет две разные альтернативы с разными ключами."
+    },
+    {
+      "url": "https://doc.fipi.ru/ege/otkrytyy-bank-zadaniy-ege/otkrytyye-varianty-kim-ege/2026/Lit_1_ege2026.zip",
+      "pages": 5,
+      "keyStatus": "no published key in downloaded archive"
+    }
+  ],
+  "mckoStatus": "Документы не получены: web timeout и прямой TLS EOF; регламент/шкала части 2 не подтверждены."
+}

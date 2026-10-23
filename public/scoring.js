@@ -1,0 +1,3 @@
+export function normalize(s,unordered=false){const value=String(s).normalize('NFC').trim().toLocaleLowerCase('ru').replace(/ё/g,'е').replace(/\s+/g,'');return unordered&&/^\d+$/.test(value)?[...value].sort().join(''):value;}
+export function checkShort(task,answer){if(!Array.isArray(task.answers)||task.keyStatus!=='published')return null;return task.answers.some(key=>normalize(key,task.unorderedDigits)===normalize(answer,task.unorderedDigits));}
+export function remaining(attempt,now=Date.now()){const used=(attempt.pausedAt||now)-attempt.started-(attempt.pauseMs||0);return Math.max(0,attempt.duration*60000-used);}
