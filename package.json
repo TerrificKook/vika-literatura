@@ -1,1 +1,1 @@
-{"name":"vika-literatura","version":"1.0.0","private":true,"type":"module","engines":{"node":">=24.16.0"},"scripts":{"start":"node scripts/serve.mjs","test":"node --test test/*.test.mjs"}}
+{"name":"vika-literatura","version":"1.0.0","private":true,"type":"module","engines":{"node":">=24.16.0"},"scripts":{"start":"node scripts/serve.mjs","test":"node --test test/*.test.mjs"},"devDependencies":{"pdfjs-dist":"6.4.299"}}
