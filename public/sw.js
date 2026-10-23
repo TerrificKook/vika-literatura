@@ -1,4 +1,4 @@
-const CACHE='vika-static-v2';
+const CACHE='vika-static-v3';
 const FILES=['./','./index.html','./style.css','./app.js','./content.js','./store.js','./scoring.js','./official.json','./expert-cases.json','./sources-data.json','./SOURCES.md'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('vika-static-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
